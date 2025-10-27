@@ -18,14 +18,9 @@
 ### Backend
 
 <span>
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+  <img src="https://skillicons.dev/icons?i=dotnet,java,cs,mysql,postgres,sqlite" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </span>
 
 ### DevOps & Tools
@@ -37,12 +32,15 @@
 # 📊GitHub Stats :
 
 <div align="center">
-![](https://github-readme-stats.vercel.app/api?username=tthaingoc&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tthaingoc&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tthaingoc&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api?username=tthaingoc&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tthaingoc&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tthaingoc&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 
----
+  <hr/>
 
-[![](https://visitcount.itsvg.in/api?id=tthaingoc&icon=0&color=0)](https://visitcount.itsvg.in)
-
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=tthaingoc&icon=0&color=0" alt="Visit Count" />
+  </a>
 </div>
